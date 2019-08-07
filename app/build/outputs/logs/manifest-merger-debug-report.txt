@@ -1,0 +1,804 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/2591616d52127076212a2813d45a0a87/AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1e8c72b0360101b5831224d767cfcd16/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/5a49d728e4490e78bf1325c921597c67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7cef48f1a4bfaaab801f7d6515ded7a9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:17:1-38:12
+MERGED from [io.reactivex:rxandroid:1.2.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c1b7f5934842f1cd819c08ae69bdba28/AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc26fed000259993c3d87607e135c8c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:17:1-37:12
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:17:1-123:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cd2df0abe5bb0898d20f279ec8a8f3f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/032b838db0a389ab5d7fad79a1d5100c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d86bd38e3e644a5cb8926117fe504cca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8d7e849a110c2b2f934297de01b429d7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/80bdf858165b04462d0f95761418ae48/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/713c5d8c05723333df86161e10da4797/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d781fc9fb9f474d268437dc076aa366d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/878f3a84d032d3da5be979c2aa98a418/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d19b54f2ededb813c0f2ac791310b577/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/98c1a1def64cd5f9087124a5a00aec27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8f01c03c6e6768c32c608c4e92de9d9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/826c99138c0fe7e27e30068eb405efa1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/77bd73dbbb0e65267bf80854e9a67ed1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/94d29046091227e1fe727c4eb8aee8db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc09429a8a18a5bd42188dcdfbaa563b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/83011afb736151b5802f98674a580ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d0fb5ef528974c7fbe00cee68f58987d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/b880aecbc37f56a1bb8d91f21daf0d35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6eda3cb1bcb99d97a4e3624a87bb151b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cfc3bb896c7be7d25348d3f05cad3eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/683e0d2dc58a2981adee96054a5c61a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f589cec021065c85f358ae51f4c4affc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f0d6502aaa935aa9e31f093f16fd7b2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/df26f0b1b375da18e38e06d49e1b49ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bc10f4ae95e9485614d43e465f807e6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/854983ba1e119c8ba7a9fe77bb8f5d64/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a2c2efa809d36ef2b2b3c646d1b85f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8315b8303196ecbd7c86bde82eb3cffe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4f0888dbc252def8a4855ba0cd7430cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/a279d3d512f13fd6089acb4412ffa8cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4048c71579db0e2cc45c0c22ffcba777/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/82d5e265915975894908fb9cd6322767/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/16654b653cd6856b95a6b912fcbf1b3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1f79d208190e803903d1b472af241a2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4413202a0c03f90a82d3d4672dbb5868/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/ec95627149da6881159270ae7a4ce857/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c63728eb3b46ebd0c811501c434f3adc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/61ae224cbb800346894c510549349267/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fe32d7a1826e7de8920777c4cd40d699/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/92c269b39149a1eab6b517407f55362f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:1-106:12
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:13:5-104:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/2591616d52127076212a2813d45a0a87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/2591616d52127076212a2813d45a0a87/AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1e8c72b0360101b5831224d767cfcd16/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1e8c72b0360101b5831224d767cfcd16/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7cef48f1a4bfaaab801f7d6515ded7a9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7cef48f1a4bfaaab801f7d6515ded7a9/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc26fed000259993c3d87607e135c8c1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc26fed000259993c3d87607e135c8c1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:22:5-35:19
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:27:5-121:19
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:27:5-121:19
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cd2df0abe5bb0898d20f279ec8a8f3f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cd2df0abe5bb0898d20f279ec8a8f3f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/032b838db0a389ab5d7fad79a1d5100c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/032b838db0a389ab5d7fad79a1d5100c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d86bd38e3e644a5cb8926117fe504cca/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d86bd38e3e644a5cb8926117fe504cca/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8d7e849a110c2b2f934297de01b429d7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8d7e849a110c2b2f934297de01b429d7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/80bdf858165b04462d0f95761418ae48/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/80bdf858165b04462d0f95761418ae48/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/713c5d8c05723333df86161e10da4797/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/713c5d8c05723333df86161e10da4797/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d781fc9fb9f474d268437dc076aa366d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d781fc9fb9f474d268437dc076aa366d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/878f3a84d032d3da5be979c2aa98a418/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/878f3a84d032d3da5be979c2aa98a418/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d19b54f2ededb813c0f2ac791310b577/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d19b54f2ededb813c0f2ac791310b577/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/854983ba1e119c8ba7a9fe77bb8f5d64/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/854983ba1e119c8ba7a9fe77bb8f5d64/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:20:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:19:9-69
+activity#py.ccenturion.salvapy_app.RecuperarContraActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:21:9-70
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:21:19-58
+activity#py.ccenturion.salvapy_app.AcercaDeActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:22:9-24:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:23:13-45
+activity#py.ccenturion.salvapy_app.DonacionDetalleActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:25:9-27:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:26:13-52
+activity#py.ccenturion.salvapy_app.DonacionActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:28:9-30:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:29:13-45
+activity#py.ccenturion.salvapy_app.NoticiasActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:31:9-33:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:32:13-45
+activity#py.ccenturion.salvapy_app.EventosActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:34:9-36:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:35:13-44
+activity#py.ccenturion.salvapy_app.SplashActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:37:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:41:27-74
+activity#py.ccenturion.salvapy_app.MainActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:44:19-47
+activity#py.ccenturion.salvapy_app.RegistrarDonanteActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:45:9-47:59
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:46:13-53
+activity#py.ccenturion.salvapy_app.LoginActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:48:9-51:59
+	android:label
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:50:13-58
+	android:theme
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:49:13-42
+activity#py.ccenturion.salvapy_app.MenuPrincipalActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:52:9-55:59
+	android:label
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:54:13-66
+	android:theme
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:53:13-50
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:64:9-66:55
+	android:value
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:66:13-52
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:65:13-58
+activity#py.ccenturion.salvapy_app.MapsActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:68:9-70:59
+	android:label
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:69:13-41
+activity#py.ccenturion.salvapy_app.HomeActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:71:9-74:59
+	android:label
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:73:13-56
+	android:theme
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:72:13-41
+activity#py.ccenturion.salvapy_app.InfPersonalActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:75:9-77:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:77:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:76:13-48
+activity#py.ccenturion.salvapy_app.PedidosActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:78:9-80:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:80:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:79:13-44
+activity#py.ccenturion.salvapy_app.RequisitosActivity
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:81:9-83:58
+	android:parentActivityName
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:83:13-55
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:82:13-47
+service#py.ccenturion.salvapy_app.fcm.MyFirebaseMessagingService
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:85:9-89:19
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:85:18-64
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:86:13-88:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:87:17-78
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:87:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:91:9-93:52
+	android:resource
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:92:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:98:9-100:54
+	android:resource
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:100:13-51
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:99:13-84
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:101:9-103:71
+	android:value
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:103:13-68
+	android:name
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml:102:13-89
+uses-sdk
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/2591616d52127076212a2813d45a0a87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/2591616d52127076212a2813d45a0a87/AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1e8c72b0360101b5831224d767cfcd16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1e8c72b0360101b5831224d767cfcd16/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/5a49d728e4490e78bf1325c921597c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/5a49d728e4490e78bf1325c921597c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7cef48f1a4bfaaab801f7d6515ded7a9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7cef48f1a4bfaaab801f7d6515ded7a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c1b7f5934842f1cd819c08ae69bdba28/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c1b7f5934842f1cd819c08ae69bdba28/AndroidManifest.xml:19:5-43
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc26fed000259993c3d87607e135c8c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc26fed000259993c3d87607e135c8c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cd2df0abe5bb0898d20f279ec8a8f3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cd2df0abe5bb0898d20f279ec8a8f3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/032b838db0a389ab5d7fad79a1d5100c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/032b838db0a389ab5d7fad79a1d5100c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d86bd38e3e644a5cb8926117fe504cca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d86bd38e3e644a5cb8926117fe504cca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8d7e849a110c2b2f934297de01b429d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8d7e849a110c2b2f934297de01b429d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/80bdf858165b04462d0f95761418ae48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/80bdf858165b04462d0f95761418ae48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/713c5d8c05723333df86161e10da4797/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/713c5d8c05723333df86161e10da4797/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d781fc9fb9f474d268437dc076aa366d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d781fc9fb9f474d268437dc076aa366d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/878f3a84d032d3da5be979c2aa98a418/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/878f3a84d032d3da5be979c2aa98a418/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d19b54f2ededb813c0f2ac791310b577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d19b54f2ededb813c0f2ac791310b577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/98c1a1def64cd5f9087124a5a00aec27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/98c1a1def64cd5f9087124a5a00aec27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8f01c03c6e6768c32c608c4e92de9d9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8f01c03c6e6768c32c608c4e92de9d9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/826c99138c0fe7e27e30068eb405efa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/826c99138c0fe7e27e30068eb405efa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/77bd73dbbb0e65267bf80854e9a67ed1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/77bd73dbbb0e65267bf80854e9a67ed1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/94d29046091227e1fe727c4eb8aee8db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/94d29046091227e1fe727c4eb8aee8db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc09429a8a18a5bd42188dcdfbaa563b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fc09429a8a18a5bd42188dcdfbaa563b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/83011afb736151b5802f98674a580ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/83011afb736151b5802f98674a580ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d0fb5ef528974c7fbe00cee68f58987d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/d0fb5ef528974c7fbe00cee68f58987d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/b880aecbc37f56a1bb8d91f21daf0d35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/b880aecbc37f56a1bb8d91f21daf0d35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6eda3cb1bcb99d97a4e3624a87bb151b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6eda3cb1bcb99d97a4e3624a87bb151b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cfc3bb896c7be7d25348d3f05cad3eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4cfc3bb896c7be7d25348d3f05cad3eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/683e0d2dc58a2981adee96054a5c61a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/683e0d2dc58a2981adee96054a5c61a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f589cec021065c85f358ae51f4c4affc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f589cec021065c85f358ae51f4c4affc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f0d6502aaa935aa9e31f093f16fd7b2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f0d6502aaa935aa9e31f093f16fd7b2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/df26f0b1b375da18e38e06d49e1b49ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/df26f0b1b375da18e38e06d49e1b49ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bc10f4ae95e9485614d43e465f807e6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bc10f4ae95e9485614d43e465f807e6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/6a38768120ffdb5063e4c51de964477e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/854983ba1e119c8ba7a9fe77bb8f5d64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/854983ba1e119c8ba7a9fe77bb8f5d64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a2c2efa809d36ef2b2b3c646d1b85f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a2c2efa809d36ef2b2b3c646d1b85f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8315b8303196ecbd7c86bde82eb3cffe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/8315b8303196ecbd7c86bde82eb3cffe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4f0888dbc252def8a4855ba0cd7430cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4f0888dbc252def8a4855ba0cd7430cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/a279d3d512f13fd6089acb4412ffa8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/a279d3d512f13fd6089acb4412ffa8cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4048c71579db0e2cc45c0c22ffcba777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4048c71579db0e2cc45c0c22ffcba777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/82d5e265915975894908fb9cd6322767/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/82d5e265915975894908fb9cd6322767/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/16654b653cd6856b95a6b912fcbf1b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/16654b653cd6856b95a6b912fcbf1b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1f79d208190e803903d1b472af241a2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/1f79d208190e803903d1b472af241a2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4413202a0c03f90a82d3d4672dbb5868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/4413202a0c03f90a82d3d4672dbb5868/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/ec95627149da6881159270ae7a4ce857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/ec95627149da6881159270ae7a4ce857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c63728eb3b46ebd0c811501c434f3adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c63728eb3b46ebd0c811501c434f3adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/61ae224cbb800346894c510549349267/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/61ae224cbb800346894c510549349267/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fe32d7a1826e7de8920777c4cd40d699/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/fe32d7a1826e7de8920777c4cd40d699/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/92c269b39149a1eab6b517407f55362f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/92c269b39149a1eab6b517407f55362f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hectorvillalba/Downloads/salvapyapp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:23:5-79
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:24:5-79
+MERGED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/dc5099421a90c1bdcfe92d14a65d0da2/AndroidManifest.xml:34:13-50
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3ad34488c39e70540eca6ba4e0244c42/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.1] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/c6da0554092235000aecd9869171b467/AndroidManifest.xml:118:25-95
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/bdc5f3dc0791d893f05467877156d94e/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/41d35dab7b7981a9325e642f101dc39b/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/96306d9a1917d70bcdebfdc75660a781/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3a95be188d92e3afb284ea2ba688aed4/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/e92ed129bc3d587c6fef2cdf76d62373/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/3b0c07ce36626457c1b965656a23b6c7/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/221b658557fdaecf293e94ec94723019/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/f9ec49544d95d95debb7ee6ee55352dd/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hectorvillalba/.gradle/caches/transforms-2/files-2.1/7a40ab89808733406f84610db5cb6892/AndroidManifest.xml:24:13-79

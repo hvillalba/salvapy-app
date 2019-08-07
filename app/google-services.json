@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166556013538",
+    "firebase_url": "https://salvapy-6c1aa.firebaseio.com",
+    "project_id": "salvapy-6c1aa",
+    "storage_bucket": "salvapy-6c1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166556013538:android:e84b3b093327846c",
+        "android_client_info": {
+          "package_name": "py.ccenturion.salvapy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166556013538-u1mh459paha464d1g10v4e48k8rg1fb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "py.ccenturion.salvapy_app",
+            "certificate_hash": "7d16b2126cad0cc3e255db7040d5047b1d31837c"
+          }
+        },
+        {
+          "client_id": "166556013538-kvrhsitqkk9tjc28pjgjkn82tph7k4lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8CNxXTa_o4aTvsRWLdJI8cjSsOpwX_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166556013538-kvrhsitqkk9tjc28pjgjkn82tph7k4lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

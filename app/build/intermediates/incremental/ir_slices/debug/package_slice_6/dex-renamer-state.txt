@@ -1,0 +1,4 @@
+#Mon Aug 05 18:30:56 PYT 2019
+base.0=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

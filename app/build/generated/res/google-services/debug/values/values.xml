@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">166556013538-kvrhsitqkk9tjc28pjgjkn82tph7k4lq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://salvapy-6c1aa.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">166556013538</string>
+    <string name="google_api_key" translatable="false">AIzaSyAP8CNxXTa_o4aTvsRWLdJI8cjSsOpwX_U</string>
+    <string name="google_app_id" translatable="false">1:166556013538:android:e84b3b093327846c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAP8CNxXTa_o4aTvsRWLdJI8cjSsOpwX_U</string>
+    <string name="google_storage_bucket" translatable="false">salvapy-6c1aa.appspot.com</string>
+    <string name="project_id" translatable="false">salvapy-6c1aa</string>
+</resources>

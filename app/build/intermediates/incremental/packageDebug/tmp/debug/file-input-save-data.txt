@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Aug 05 19:54:37 PYT 2019
+2.base=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=splash.json
+2.baseType=DIRECTORY
+3.base=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/merged_assets/debug/out
+2.set=DEX
+1.path=done.json
+4.base=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/merged_assets/debug/out
+count=5
+2.path=classes.dex
+4.set=ASSET
+3.path=truck.json
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=spinner.json
+1.baseType=DIRECTORY
+0.base=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/merged_assets/debug/out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/Users/hectorvillalba/Downloads/salvapyapp/app/build/intermediates/merged_assets/debug/out
+4.baseType=DIRECTORY
+0.set=ASSET
